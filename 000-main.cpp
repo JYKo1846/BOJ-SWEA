@@ -97,6 +97,8 @@
 //void lie(); // 1043
 //void makePalin(); // 1695
 //void weightWeight(); // SWEA 1849
+//void tileCode(); // 1720
+
 
 // 문제 찾을때 줄 번호 -3 하면 해당 문제 파일이 나옴 
 // SWEA = SAMSUNG S/W EXPERT ACADEMY 문제, 미표기한 소스는 BOJ = BAEKJOON ONLINE JUDGE 문제 
@@ -167,7 +169,8 @@ int main()
 		//binarypass();
 		//lie();
 		//makePalin();
-		//weightWeight();
+		weightWeight();
+		//tileCode();
 	}
 	return 0;
 }
